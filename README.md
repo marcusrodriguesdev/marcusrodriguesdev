@@ -24,7 +24,7 @@ E estou me capacitando pela @betrybe para me tornar um <b>Desenvolvedor Full-Sta
 
 <img align="right" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1625578977646.png" width="400px" />
 
-- :man_technologist: Estou estudando frontend com **Bootstrap**, **React Testing Library** e utilizando o framework **React**;
+- :man_technologist: Estou estudando frontend com **Bootstrap**, **React**, **CSS**;
 - 💼 Sou apaixonado por tecnologia, por este motivo estou sempre estudando e evoluindo na minha carreira;
 - 👾 Meus hobbies são: 
   - Ver projetos de desenvolvedores na Twitch!
