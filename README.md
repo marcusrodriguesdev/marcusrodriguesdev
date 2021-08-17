@@ -33,10 +33,10 @@ E estou me capacitando pela @betrybe para me tornar um <b>Desenvolvedor Full-Sta
 - 📫 Se quiser pode enviar um email para marcus.rodrigues10@hotmail.com
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcusrodriguesdev&layout=compact&theme=graywhite&title_color=268bd2" alt="Marcus Rodrigues" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=marcusrodriguesdev&show_icons=true&theme=dark" alt="Marcus Rodrigues" />
 </p>
 <p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=marcusrodriguesdev&count_private=true&show_icons=true&theme=graywhite&icon_color=268bd2&title_color=268bd2" alt="Marcus Rodrigues" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcusrodriguesdev&layout=compact&theme=dark" alt="Marcus Rodrigues" />
 </p>
 
 **Linguagens e ferramentas:**  
@@ -50,6 +50,13 @@ E estou me capacitando pela @betrybe para me tornar um <b>Desenvolvedor Full-Sta
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" alt="typescript" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-line.svg" alt="nextjs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" alt="materialui" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg" alt="yarn" width="40" height="40"/>
 </p> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marcusrodriguesdev" alt="Marcus-Rodrigues" /> </p>
