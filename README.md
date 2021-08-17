@@ -33,10 +33,10 @@ E estou me capacitando pela @betrybe para me tornar um <b>Desenvolvedor Full-Sta
 - 📫 Se quiser pode enviar um email para marcus.rodrigues10@hotmail.com
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=marcusrodriguesdev&show_icons=true&theme=dark" alt="Marcus Rodrigues" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcusrodriguesdev&layout=compact&theme=dark" alt="Marcus Rodrigues" />
 </p>
 <p>&nbsp;
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcusrodriguesdev&layout=compact&theme=dark" alt="Marcus Rodrigues" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=marcusrodriguesdev&show_icons=true&theme=dark" alt="Marcus Rodrigues" />
 </p>
 
 **Linguagens e ferramentas:**  
