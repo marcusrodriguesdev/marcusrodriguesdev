@@ -19,9 +19,9 @@ E estou me capacitando pela @betrybe para me tornar um <b>Desenvolvedor Full-Sta
 
 **Meus interesses pessoais:**
 
-<img align="right" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1625578977646.png" width="400px" />
+<!-- <img align="right" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1625578977646.png" width="400px" /> -->
 
-- :man_technologist: Estou estudando frontend com **Bootstrap**, **React**, **CSS**;
+- :man_technologist: Atualmente estou estudando frontend com **React**, **Redux**, **Bootstrap**, entre outras ferramentas;
 - 👾 Meus hobbies são: 
   - Ver projetos de desenvolvedores na Twitch!
   - Ouvir podcast;
