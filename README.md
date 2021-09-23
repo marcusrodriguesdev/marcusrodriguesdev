@@ -1,15 +1,15 @@
 <h1 align="center"> Seja bem vinda e bem vindo! </h1>
 <hr />
-<a href="https://github.com/marcusrodriguesdev" target="_blank">
+<a href="https://github.com/marcusrodriguesdev" target="_blank" rel="noreferrer">
   <img align="right" src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
 </a><br />
-<a href="https://www.instagram.com/m4rcusvini/?hl=pt-br" target="_blank">
+<a href="https://www.instagram.com/m4rcusvini/?hl=pt-br" target="_blank" rel="noreferrer">
   <img align="right" src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="48px" height="48px">
 </a><br />
 <p align="left" >
 Me chamo <b> Marcus Rodrigues</b>.
 </p>
-<a href="https://www.linkedin.com/in/marcusrodriguesdev/" target="_blank">
+<a href="https://www.linkedin.com/in/marcusrodriguesdev/" target="_blank" rel="noreferrer">
   <img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
 </a>
 <p align="left" >
@@ -28,6 +28,7 @@ E estou me capacitando pela @betrybe para me tornar um <b>Desenvolvedor Full-Sta
   - Jogar COD;
 - 💬 Fique a vontade para me chamar, ficarei muito feliz em poder ajudar;
 - 📫 Se quiser pode enviar um email para marcus.rodrigues10@hotmail.com
+- ⭐ Caso queira ver meu <a href="https://marcusrodriguesdev.github.io/marcus-portfolio/" rel="noreferrer" target="_blank">Porfólio</a> 😄
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcusrodriguesdev&layout=compact&theme=dark" alt="Marcus Rodrigues" />
