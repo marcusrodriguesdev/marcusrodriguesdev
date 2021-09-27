@@ -28,7 +28,6 @@ E estou me capacitando pela @betrybe para me tornar um <b>Desenvolvedor Full-Sta
   - Jogar COD;
 - 💬 Fique a vontade para me chamar, ficarei muito feliz em poder ajudar;
 - 📫 Se quiser pode enviar um email para marcus.rodrigues10@hotmail.com
-- ⭐ Caso queira ver meu <a href="https://marcusrodriguesdev.github.io/marcus-portfolio/" rel="noreferrer" target="_blank">Porfólio</a> 😄
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcusrodriguesdev&layout=compact&theme=dark" alt="Marcus Rodrigues" />
