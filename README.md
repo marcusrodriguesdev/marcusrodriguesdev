@@ -3,9 +3,7 @@
 <a href="https://github.com/marcusrodriguesdev" target="_blank" rel="noreferrer">
   <img align="right" src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
 </a><br />
-<a href="https://www.instagram.com/m4rcusvini/?hl=pt-br" target="_blank" rel="noreferrer">
-  <img align="right" src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="48px" height="48px">
-</a><br />
+
 <p align="left" >
 Me chamo <b> Marcus Rodrigues</b>.
 </p>
@@ -50,7 +48,6 @@ E estou me capacitando pela @betrybe para me tornar um <b>Desenvolvedor Full-Sta
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-line.svg" alt="nextjs" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" alt="materialui" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg" alt="yarn" width="40" height="40"/>
 </p> 
 
