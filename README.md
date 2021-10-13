@@ -25,7 +25,7 @@ E estou me capacitando pela @betrybe para me tornar um <b>Desenvolvedor Full-Sta
   - Ouvir podcast;
   - Jogar COD;
 - 💬 Fique a vontade para me chamar, ficarei muito feliz em poder ajudar;
-- 📫 Se quiser pode enviar um email para marcus.rodrigues10@hotmail.com
+- 📫 Se quiser pode enviar um email para marcusrodriguesdev@gmail.com
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcusrodriguesdev&layout=compact&theme=dark" alt="Marcus Rodrigues" />
