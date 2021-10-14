@@ -12,7 +12,7 @@ Me chamo <b> Marcus Rodrigues</b>.
 </a>
 <p align="left" >
 Atualmente moro em Belo Horizonte/MG-BR.<br />
-E estou me capacitando pela @betrybe para me tornar um <b>Desenvolvedor Full-Stack </b>.
+  E estou me capacitando pela <a href="https://betrybe.com/" target="_blank" rel="noreferrer" >betrybe</a> para me tornar um <b>Desenvolvedor Full-Stack </b>.
 </p>
 
 **Meus interesses pessoais:**
