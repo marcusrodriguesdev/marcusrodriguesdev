@@ -47,6 +47,7 @@ Atualmente moro em Belo Horizonte/MG-BR.<br />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-line.svg" alt="nextjs" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg" alt="yarn" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="yarn" width="40" height="40"/>
 </p> 
 
 <p align="left"> <img src="https://profile-counter.glitch.me/marcusrodriguesdev/count.svg" alt="Marcus-Rodrigues" /> </p>
