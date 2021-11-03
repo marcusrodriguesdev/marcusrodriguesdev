@@ -1,40 +1,34 @@
 <h1 align="center"> Seja bem vinda e bem vindo! </h1>
 <hr />
-<a href="https://github.com/marcusrodriguesdev" target="_blank" rel="noreferrer">
-  <img align="right" src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
-</a><br />
 
 <p align="left" >
 Me chamo <b> Marcus Rodrigues</b>.
 </p>
-<a href="https://www.linkedin.com/in/marcusrodriguesdev/" target="_blank" rel="noreferrer">
-  <img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
-</a>
 <p align="left" >
 Atualmente moro em Belo Horizonte/MG-BR.<br />
   E estou me capacitando pela <a href="https://betrybe.com/" target="_blank" rel="noreferrer" >betrybe</a> para me tornar um <b>Desenvolvedor Full-Stack </b>.
 </p>
 
-**Meus interesses pessoais:**
+**Meus interesses pessoais**
 
 <!-- <img align="right" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1625578977646.png" width="400px" /> -->
 
-- :man_technologist: Atualmente estou estudando frontend com **React**, **Redux**, **Bootstrap**, entre outras ferramentas;
+- :man_technologist: Atualmente estou estudando back-end com **NodeJS**, **Typescript**, **Mysql**, entre outras ferramentas;
 - 👾 Meus hobbies são: 
   - Ver projetos de desenvolvedores na Twitch!
   - Ouvir podcast;
   - Jogar COD;
 - 💬 Fique a vontade para me chamar, ficarei muito feliz em poder ajudar;
-- 📫 Se quiser pode enviar um email para marcusrodriguesdev@gmail.com
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcusrodriguesdev&layout=compact&theme=dark" alt="Marcus Rodrigues" />
-</p>
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=marcusrodriguesdev&show_icons=true&theme=dark" alt="Marcus Rodrigues" />
-</p>
+---
 
-**Linguagens e ferramentas:**  
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcusrodriguesdev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&icon_color=2FC18C&title_color=2FC18C&bg_color=1A1D21"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcusrodriguesdev&layout=compact&langs_count=7&theme=dracula&title_color=2FC18C&bg_color=1A1D21"/>
+</div>
+
+
+### Linguagens e ferramentas
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
@@ -47,8 +41,15 @@ Atualmente moro em Belo Horizonte/MG-BR.<br />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-line.svg" alt="nextjs" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg" alt="yarn" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="yarn" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" alt="docker" width="40" height="40"/>
 </p> 
 
-<p align="left"> <img src="https://profile-counter.glitch.me/marcusrodriguesdev/count.svg" alt="Marcus-Rodrigues" /> </p>
+---
 
+### Contato
+
+<div>
+  <a href="https://www.linkedin.com/in/marcusrodriguesdev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:[marcusrodriguesdev@gmail.com]"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
