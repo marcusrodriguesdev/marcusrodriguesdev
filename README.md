@@ -9,19 +9,6 @@ Atualmente moro em Belo Horizonte/MG-BR.<br />
   E estou me capacitando pela <a href="https://betrybe.com/" target="_blank" rel="noreferrer" >betrybe</a> para me tornar um <b>Desenvolvedor Full-Stack </b>.
 </p>
 
-**Meus interesses pessoais**
-
-<!-- <img align="right" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1625578977646.png" width="400px" /> -->
-
-- :man_technologist: Atualmente estou estudando back-end com **NodeJS**, **Typescript**, **Mysql**, entre outras ferramentas;
-- 👾 Meus hobbies são: 
-  - Ver projetos de desenvolvedores na Twitch!
-  - Ouvir podcast;
-  - Jogar COD;
-- 💬 Fique a vontade para me chamar, ficarei muito feliz em poder ajudar;
-
----
-
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcusrodriguesdev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&icon_color=2FC18C&title_color=2FC18C&bg_color=1A1D21"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcusrodriguesdev&layout=compact&langs_count=7&theme=dracula&title_color=2FC18C&bg_color=1A1D21"/>
