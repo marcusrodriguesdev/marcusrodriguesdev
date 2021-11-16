@@ -1,5 +1,5 @@
 <h1 align="center"> Seja bem vinda e bem vindo! </h1>
-<hr />
+<!-- <hr /> -->
 
 <p align="left" >
 Me chamo <b> Marcus Rodrigues</b>.
@@ -10,12 +10,11 @@ Atualmente moro em Belo Horizonte/MG-BR.<br />
 </p>
 
 <div align="center">
-  <img height="155px" src="https://github-readme-stats.vercel.app/api?username=marcusrodriguesdev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&icon_color=F3F2EF&title_color=F3F2EF&bg_color=1A1D21"/>
-  <img height="155px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcusrodriguesdev&layout=compact&langs_count=7&theme=dracula&title_color=F3F2EF&bg_color=1A1D21"/>
+  <img height="155px" src="https://github-readme-stats.vercel.app/api?username=marcusrodriguesdev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&icon_color=56BCD9&title_color=56BCD9&bg_color=1A1D21"/>
+  <img height="155px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcusrodriguesdev&layout=compact&langs_count=7&theme=dracula&title_color=56BCD9&bg_color=1A1D21"/>
 </div>
 
-
-### Linguagens e ferramentas
+### Tecnologias e ferramentas
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/> 
@@ -27,6 +26,7 @@ Atualmente moro em Belo Horizonte/MG-BR.<br />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-line.svg" alt="nextjs" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" alt="docker" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="docker" width="40" height="40"/>
 </p> 
 
 ---
