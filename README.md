@@ -1,4 +1,4 @@
-## Hi 👋! I'm Marcus Rodrigues
+## I'm Marcus Rodrigues
 
 I currently live in Belo Horizonte/MG-BR.<br />
 And I'm qualifying through [Trybe](https://betrybe.com) to become a <b>Full-Stack Developer</b>.
