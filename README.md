@@ -1,9 +1,8 @@
-## I'm Marcus Rodrigues
+## Olá 👋! Sou Marcus Rodrigues
 
-I currently live in Belo Horizonte/MG-BR.<br />
-And I'm qualifying through [Trybe](https://betrybe.com) to become a <b>Full-Stack Developer</b>.
+Desenvolvedor Front-end, atualmente estudante da [Trybe](https://betrybe.com) para me tornar um <b>Desenvolvedor Full-Stack</b>.
 
-## 💻 Technologies and Tools
+## 💻 Tecnologias e Ferramentas
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40" /> 
@@ -24,7 +23,7 @@ And I'm qualifying through [Trybe](https://betrybe.com) to become a <b>Full-Stac
   <img height="155px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcusrodriguesdev&layout=compact&langs_count=7&theme=dracula&title_color=48cae4&bg_color=1A1D21"/>
 </div>
 
-## Contact
+## Contato
 
 <div>
   <a href="https://www.linkedin.com/in/marcusrodriguesdev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
