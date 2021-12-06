@@ -16,7 +16,7 @@ Desenvolvedor Front-end, atualmente estudante da [Trybe](https://betrybe.com) pa
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="mongdb" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="node" width="40" height="40"/>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" alt="jest" width="40" height="40"/>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="express" width="40" height="40"/>
 </p> 
 
 ## 📊 Github Stats
