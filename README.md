@@ -19,6 +19,7 @@ Desenvolvedor Front-end, atualmente estudante da [Trybe](https://betrybe.com) pa
    <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="express" width="40" height="40"/>
 </p> 
 
+
 ## 📊 Github Stats
 <div align="center">
   <img height="155px" src="https://github-readme-stats.vercel.app/api?username=marcusrodriguesdev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&icon_color=48cae4&title_color=D4D4D4&bg_color=1A1D21"/>
