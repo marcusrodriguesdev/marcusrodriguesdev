@@ -1,8 +1,8 @@
-## Olá 👋! Sou Marcus Rodrigues
+## Hi 👋! I'am Marcus Rodrigues
 
-Desenvolvedor Front-end, atualmente estudante da [Trybe](https://betrybe.com) para me tornar um <b>Desenvolvedor Full-Stack</b>.
+Front-end Developer, currently a student at  [Trybe](https://betrybe.com) to become a <b>Full-Stack Developer</b>.
 
-## 💻 Tecnologias e Ferramentas
+## 💻 Technologies and Tools
 
 <p align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> 
@@ -22,7 +22,7 @@ Desenvolvedor Front-end, atualmente estudante da [Trybe](https://betrybe.com) pa
   <img height="155px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcusrodriguesdev&layout=compact&langs_count=7&theme=dracula&title_color=D4D4D4&bg_color=1A1D21"/>
 </div>
 
-## Contato
+## Contact
 
 <div>
   <a href="https://www.linkedin.com/in/marcusrodriguesdev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
