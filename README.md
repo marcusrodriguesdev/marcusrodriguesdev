@@ -1,6 +1,6 @@
 ## Hi 👋! I'am Marcus Rodrigues
 
-Front-end Developer, currently a student at  [Trybe](https://betrybe.com) to become a <b>Full-Stack Developer</b>.
+Software Developer at NexAtlas. Completely passionate about technology, communication and helping <strong>people</strong>.
 
 ## 💻 Technologies and Tools
 
