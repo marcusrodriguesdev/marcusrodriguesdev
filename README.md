@@ -1,6 +1,6 @@
 ## Hi 👋! I'am Marcus Rodrigues
 
-Software Developer at NexAtlas. Completely passionate about technology, communication and helping <strong>people</strong>.
+Software Developer at NexAtlas. Completely passionate about technology, communication and <strong>helping people</strong>.
 
 ## 💻 Technologies and Tools
 
