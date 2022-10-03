@@ -1,6 +1,6 @@
 ## Hi 👋! I'am Marcus Rodrigues
 
-Frontend Developer at NexAtlas. Completely passionate about technology, communication and <strong>helping people</strong>.
+Front end Developer at NexAtlas. Completely passionate about technology, communication and <strong>helping people</strong>.
 
 ## 💻 Technologies and Tools
 
