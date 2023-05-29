@@ -1,6 +1,6 @@
 ## Hi 👋! I'am Marcus Rodrigues
 
-Mobile Developer at Qesh. Completely passionate about technology, communication and <strong>helping people</strong>.
+Mobile Developer at Hero99. Completely passionate about technology, communication and <strong>helping people</strong>.
 
 ## 💻 Technologies and Tools
 
