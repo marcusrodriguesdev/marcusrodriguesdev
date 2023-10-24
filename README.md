@@ -1,6 +1,6 @@
 ## Hi 👋! I'am Marcus Rodrigues
 
-Mobile Developer at Hero99. Completely passionate about technology, communication and <strong>helping people</strong>.
+Software Engineer. Completely passionate about technology, communication and <strong>helping people</strong>.
 
 ## 💻 Technologies and Tools
 
